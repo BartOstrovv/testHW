@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #define MAX_ELEMENTS_OF_LIST 5
 using namespace std;
-
+//zminu v kodi
 template<typename T>
 class List
 {
